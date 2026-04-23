@@ -1,0 +1,5 @@
+<resources>
+    <integer name="delay_add_city_ms">1500</integer>
+    <integer name="delay_refresh_ms">500</integer>
+    <integer name="delay_loading_ms">1000</integer>
+</resources>

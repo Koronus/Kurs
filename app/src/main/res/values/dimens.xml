@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Padding & Margins -->
+    <dimen name="padding_extra_small">4.dp</dimen>
+    <dimen name="padding_small">8.dp</dimen>
+    <dimen name="padding_medium">12.dp</dimen>
+    <dimen name="padding_normal">16.dp</dimen>
+    <dimen name="padding_large">24.dp</dimen>
+    <dimen name="padding_xlarge">32.dp</dimen>
+
+    <!-- Card corner radius -->
+    <dimen name="radius_small">8.dp</dimen>
+    <dimen name="radius_medium">12.dp</dimen>
+    <dimen name="radius_large">16.dp</dimen>
+
+    <!-- Icon sizes -->
+    <dimen name="icon_small">16.dp</dimen>
+    <dimen name="icon_medium">20.dp</dimen>
+    <dimen name="icon_normal">24.dp</dimen>
+    <dimen name="icon_large">32.dp</dimen>
+    <dimen name="icon_xlarge">48.dp</dimen>
+    <dimen name="icon_xxlarge">64.dp</dimen>
+
+    <!-- Text sizes (шрифты) -->
+    <dimen name="text_extra_small">10.sp</dimen>
+    <dimen name="text_small">12.sp</dimen>
+    <dimen name="text_medium">14.sp</dimen>
+    <dimen name="text_normal">16.sp</dimen>
+    <dimen name="text_large">18</dimen>
+    <dimen name="text_xlarge">20.sp</dimen>
+    <dimen name="text_xxlarge">24.sp</dimen>
+    <dimen name="text_xxxlarge">28.sp</dimen>
+    <dimen name="text_huge">32.sp</dimen>
+    <dimen name="text_massive">48.sp</dimen>
+    <dimen name="text_giant">56.sp</dimen>
+
+
+    <dimen name="elevation_small">1.dp</dimen>
+    <dimen name="elevation_medium">2.dp</dimen>
+    <dimen name="elevation_normal">4.dp</dimen>
+    <dimen name="elevation_large">6.dp</dimen>
+    <dimen name="elevation_xlarge">8.dp</dimen>
+
+
+    <dimen name="progress_indicator_small">20.dp</dimen>
+    <dimen name="progress_indicator_normal">32.dp</dimen>
+    <dimen name="icon_button_size">36.dp</dimen>
+    <dimen name="search_bar_height">56.dp</dimen>
+    <dimen name="suggestion_list_max_height">300.dp</dimen>
+
+
+    <dimen name="spacing_vertical_list">12.dp</dimen>
+    <dimen name="spacing_vertical_card">16.dp</dimen>
+    <dimen name="spacing_horizontal_list">16.dp</dimen>
+    <dimen name="spacing_horizontal_card">16.dp</dimen>
+    <dimen name="gradient_height">200.dp</dimen>
+</resources>

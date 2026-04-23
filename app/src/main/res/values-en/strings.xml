@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <string name="city_name">City name</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="weekly_forecast">Weekly forecast</string>
+    <string name="language">en</string>
+
+    <!-- Weather Screen -->
+    <string name="my_cities">My cities</string>
+    <string name="refresh_all">Refresh all</string>
+    <string name="search_city_hint">Search city</string>
+    <string name="clear">Clear</string>
+    <string name="find_and_add_city">Find and add a city</string>
+    <string name="search_city_instruction">Enter city name in the search bar</string>
+    <string name="delete">Delete</string>
+    <string name="refresh">Refresh</string>
+    <string name="error">Error</string>
+    <string name="no_data">—</string>
+
+    <!-- Weekly Forecast Screen -->
+    <string name="back">Back</string>
+    <string name="city_not_found">City not found</string>
+    <string name="city_not_found_message">City \'%s\' not found</string>
+    <string name="add_city">Add city</string>
+    <string name="back_button">Back</string>
+    <string name="loading_forecast">Loading weather forecast...</string>
+    <string name="retry">Retry</string>
+    <string name="no_weather_data">No weather data available</string>
+    <string name="load">Load</string>
+    <string name="unknown_error">Unknown error</string>
+
+    <!-- Forecast Content -->
+    <string name="weekly_forecast_title">📅 Weekly forecast</string>
+    <string name="hourly_forecast_title">⏰ Hourly forecast (today)</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="no_temperature_data">No data</string>
+
+    <!-- Weather states -->
+    <string name="loading">Loading...</string>
+    <string name="please_wait">Please wait</string>
+
+    <!-- Units -->
+    <string name="percent_unit">%</string>
+    <string name="meters_per_second">m/s</string>
+    <string name="celsius_unit">°C</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_error">Error</string>
+    <string name="cd_weather_icon">Weather</string>
+    <string name="cd_humidity">Humidity</string>
+    <string name="cd_wind">Wind</string>
+    <string name="cd_add">Add</string>
+    <string name="cd_refresh">Refresh</string>
+    <string name="cd_delete">Delete</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_clear">Clear</string>
+</resources>

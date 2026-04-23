@@ -7,4 +7,14 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Weather gradient colors -->
+    <color name="gradient_cold_start">#2196F3</color>
+    <color name="gradient_cold_end">#03A9F4</color>
+    <color name="gradient_cool_start">#4CAF50</color>
+    <color name="gradient_cool_end">#8BC34A</color>
+    <color name="gradient_warm_start">#FFC107</color>
+    <color name="gradient_warm_end">#FF9800</color>
+    <color name="gradient_hot_start">#F44336</color>
+    <color name="gradient_hot_end">#FF5722</color>
 </resources>
