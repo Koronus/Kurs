@@ -6,9 +6,8 @@
     <string name="temperature">Температура</string>
 
     <string name="wind_speed">Скорость ветра</string>
-    <string name="weekly_forecast">📅 Прогноз на неделю</string>
-    <string name="language">en</string>
-
+    <string name="weekly_forecast">Прогноз на неделю</string>
+    <string name="language">ru</string>
 
     <!-- Weather Screen -->
     <string name="my_cities">Мои города</string>
